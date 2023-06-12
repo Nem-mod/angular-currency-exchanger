@@ -1,4 +1,4 @@
 # angular-currency-exchanger
-Run cd test-task/ \n
-npm intstall \n
-npm start \n
+Run cd test-task/, 
+npm intstall, 
+npm start
